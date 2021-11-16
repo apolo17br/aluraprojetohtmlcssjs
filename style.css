@@ -1,0 +1,62 @@
+body {
+    background: black;
+}
+
+#barbearia {
+    width: 100%;
+}
+
+.principal {
+    background: black;
+    color: white;
+    padding: 20px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+    color: yellow;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    color: yellow;
+    font-size: 40px;
+}
+
+p {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: yellow;
+}
+
+.itens {
+    border: 1px solid yellow;
+    width: 100%;
+    background: black;
+    color: yellow;
+}
+
+.beneficios {
+    background: black; 
+    color: yellow;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 20%;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
